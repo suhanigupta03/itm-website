@@ -1,0 +1,178 @@
+/* *{
+    margin: 0;
+     font-family: Arial;
+     border : border-box;
+ }
+ .foot
+ {
+ width: 100%;
+ }
+ 
+ .foot-panel1
+ {
+     background-color: #064420;
+     color:white;
+     height:80px;
+     display:flex;
+     justify-content: space-evenly;
+     font-size: 0.85rem;
+     align-items: center;
+ }
+ .navlogo
+ {
+     height: 60px;
+     width : 100px;
+     margin-right: 20% ;
+     margin-left: 3%;
+     margin-right: 3%;
+ }
+ .logo
+ {   
+     background-image: url('../assets/Logo_ITM.png'); 
+     background-size: cover;
+     height:60px;
+     width: 150%;
+    
+ }
+ .about
+ {
+     margin-left: 3%;
+     margin-right: 3%;
+   
+ }
+ .line
+ {
+     color: black;
+ }
+ .foot-panel2
+ {
+     background-color:#064420;
+     color: #f3f3f3;
+     height: 350px;
+     display:flex;
+     justify-content: space-evenly;
+ }
+ .all
+ {
+     margin-top: 40px;
+    margin-left: 3%;
+    margin-right: 3%;
+ 
+ }
+ .social
+ {
+     height: 40px;
+     margin-top: 30px;
+     justify-content: space-evenly;
+     display: flex;
+ }
+     .all1
+ {
+     margin-top: 50px;
+   
+ }
+ 
+ .heading
+ {
+     font-size: 20px;
+     margin-bottom: 20px;
+     text-decoration: underline;
+ }
+ 
+ .all a
+ {
+     display: block;
+     font-size: 0.85rem;
+     margin-top: 10px;
+ 
+ }
+ .insta
+ {
+     height: 30px;
+     width: 30px;
+     margin-right: 1px;
+ }
+ 
+ .all1 a
+ {
+     display: block;
+     font-size: 0.85rem;
+     margin-top: 10px;
+ 
+ 
+ }
+ .all li
+ {
+     list-style: '\1F449';
+ }
+ .all1 li
+ {
+     list-style-type: none;
+ }
+ .ad-icon
+ {
+     display: flex;
+     align-items: center;
+   
+ }
+ .foot-panel3
+ {
+     background-color:#454545;
+     color:white;
+     height:50px;
+     display:flex;
+     justify-content: center;
+     font-size: 0.85rem;
+     align-items: center;
+ }
+ .links a
+ {
+   color: white;
+   text-decoration: none;
+ }
+ .map
+ {
+    margin-right: 25%;
+    position: relative;
+ right: 10%;
+ }
+ .map_contact
+ {
+     height:280px;
+     width:400px;
+     display: flex;
+ }
+ @media screen and (max-width:1000px)
+ {
+    .foot
+    {
+     display: flex;
+     flex-wrap: wrap;
+     flex-direction: column;
+    }
+   .foot-panel1{
+     display: flex;
+     flex-direction: column;
+     align-items: flex-start;
+     height: 200px;
+   }
+   
+   .foot-panel2{
+     display: flex;
+     flex-direction: column;
+     align-items: flex-start;
+     height: 70%;
+   }
+ 
+   .foot-panel3{
+     display: flex;
+     flex-direction: column;
+     align-items: flex-start;
+   }
+   .map_contact
+     {
+         margin-bottom: 10%;
+         width:190%;
+     }
+ }
+  */
